@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Exercise_38\bin\Debug\Exercise_38.exe.config
+C:\Users\PC C1\source\repos\Exercise_38\bin\Debug\Exercise_38.exe
+C:\Users\PC C1\source\repos\Exercise_38\bin\Debug\Exercise_38.pdb
+C:\Users\PC C1\source\repos\Exercise_38\obj\Debug\Exercise_38.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Exercise_38\obj\Debug\Exercise_38.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Exercise_38\obj\Debug\Exercise_38.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Exercise_38\obj\Debug\Exercise_38.exe
+C:\Users\PC C1\source\repos\Exercise_38\obj\Debug\Exercise_38.pdb
